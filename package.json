@@ -1,7 +1,11 @@
 {
-  "name": "teatrc20",
-  "version": "1.0.0",
-  "main": "05整理成绩.js",
+
+  "dependencies": {
+    "name": "teatrc20",
+    "version": "1.0.0",
+    "main": "05整理成绩.js"
+  },
+
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,4 +17,5 @@
   "author": "",
   "license": "ISC",
   "description": ""
+
 }
