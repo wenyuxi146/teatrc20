@@ -1,21 +1,38 @@
 {
 
   "dependencies": {
-    "name": "teatrc20",
-    "version": "1.0.0",
-    "main": "05整理成绩.js"
+
+    " name ": "teatrc20",
+
+    " version ": "1.0.0"
+
   },
 
   "scripts": {
+
     "test": "echo \"Error: no test specified\" && exit 1"
+
   },
-   "repository": {
-      "type": "git",
-      "url": "git+https://github.com/wenyuxi146/teatrc20"
+
+  "repository": {
+
+    "type": "git",
+
+    "url": "git+https://github.com/wenyuxi146/teatrc20.git"
+
   },
+
   "keywords": [],
+
   "author": "",
+
   "license": "ISC",
-  "description": ""
+
+  "description": "",
+
+  "name": "teatrc20",
+
+  "version": "1.0.0"
 
 }
+
