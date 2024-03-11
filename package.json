@@ -2,10 +2,7 @@
 
   "dependencies": {
 
-    "name": "teatrc20",
-
-    "version": "1.0.1"
-
+   "teatrc20": "1.0.2"
   },
 
   "scripts": {
@@ -28,11 +25,7 @@
 
   "license": "ISC",
 
-  "description": "",
-
-  "name": "teatrc20",
-
-  "version": "1.0.1"
+  "description": ""
 
 }
 
