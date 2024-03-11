@@ -3,29 +3,61 @@
 
     "name": "teatrc20",
 
-   "version": "1.0.2",
 
-  "scripts": {
+    "version": "1.0.3",
 
-    "test": "echo \"Error: no test specified\" && exit 1"
 
-  },
+    "scripts": {
 
-  "repository": {
 
-    "type": "git",
+        "test": "echo \"Error: no test specified\" && exit 1"
 
-    "url": "git+https://github.com/wenyuxi146/teatrc20.git"
 
-  },
+    },
 
-  "keywords": [],
 
-  "author": "",
+    "repository": {
 
-  "license": "ISC",
 
-  "description": ""
+        "type": "git",
+
+
+        "url": "git+https://github.com/wenyuxi146/teatrc20.git"
+
+
+    },
+
+
+    "keywords": [],
+
+
+    "author": "",
+
+
+    "license": "ISC",
+
+
+    "description": "",
+
+
+    "dependencies": {
+
+
+        "tea-lib-one": "^1.0.3",
+
+
+        "tea-lib-two": "^1.0.4",
+
+
+        "ttbb55": "^1.0.2",
+
+
+        "wwwtea": "^1.0.5"
+
+
+    }
+
 
 }
+
 
