@@ -4,7 +4,7 @@
     "name": "teatrc20",
 
 
-    "version": "1.0.3",
+    "version": "1.0.4",
 
 
     "scripts": {
@@ -41,6 +41,9 @@
 
 
     "dependencies": {
+
+
+        "open": "^10.1.0",
 
 
         "tea-lib-one": "^1.0.3",
